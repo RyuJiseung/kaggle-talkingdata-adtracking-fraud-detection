@@ -1,4 +1,4 @@
-# kaggle talkingdata adtracking : fraud detection (407/3967)
+# kaggle talkingdata adtracking : fraud detection (407/3967 => Top 11%)
 Can you detect fraudulent click traffic for mobile app ads?
 
 https://github.com/RyuJiseung/WSDM_2018/blob/master/kkbox_churn_prediction.pdf
